@@ -1,5 +1,6 @@
 package com.vfbellaver.pontointeligente.api;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
@@ -12,3 +13,4 @@ public class PontoInteligenteApplication {
 		SpringApplication.run(PontoInteligenteApplication.class, args);
 	}
 }
+
